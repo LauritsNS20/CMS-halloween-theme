@@ -1,0 +1,27 @@
+/**
+ * Theme Name:        Halloween theme
+ * Theme URI:         https://#
+ * Description:       a scary halloween theme
+ * Version:           1.0.0
+ * Author:            Laurits
+ * Author URI:        https://Laurits.dk
+ * Tags:              scary, responsive, halloween, theme,
+ * Text Domain:       halloween theme
+ * Tested up to:      6.6.1
+ * Requires at least: 6.6.1
+ * Requires PHP:      7.4
+ * License:           GNU General Public License v2.0 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+
+ *{
+    font-family: sans-serif;
+ }
+
+ body{
+    background-color: orange;
+    
+ }
+
+ 
